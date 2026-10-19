@@ -1,0 +1,13 @@
+h1{
+    font-family: wingdings;
+
+    color: red;
+
+    border: 3px solid darkblue ;
+    background-color: lightyellow;
+}
+
+p {
+    font-family: "Michroma", sans-serif;
+    font-style: normal;
+}
